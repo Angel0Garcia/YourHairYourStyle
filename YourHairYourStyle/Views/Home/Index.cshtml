@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center" id="title">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+</div>
+<<<<<<< HEAD
+
+<hr />
+
+<div class="text-center">
+    <h1> CORTE DE PELO PARA MUJER </h1>
+
+    <p>Tal vez ha llegado la hora de cambiar de look y lucir diferente esta primavera. No es tarde</p>
+    <p>para hacernos con ese corte que tanto nos gusta en la peluquería de señora en Valencia.</p>
+    <p>Puedes elegir entre una gran cantidad de cortes de pelo moderno, veamos cuáles.</p>
+    <img src="~/img/imagen_1.jpg" />
+</div>
+
+<hr />
+
+<div id="trend">
+    <h1> TENDENCIAS CORTE DE PELO PARA MUJER EN 2024 </h1>
+    <br />
+
+    <p>El <strong>corte bob version mini</strong>, es un corte recto justo por la barbilla, es muy cómodo y favorecedor, es un corte que viene pisando muy fuerte esta primavera. </p>
+    <p>Se lleva mucho esta primavera el <strong>corte tipo mullet</strong> sobre todo para dejar esas ondas o rizos naturales con un buen producto de acabado y una buena hidratación, incluido un flequillo y <br /> unas capas para marcar los rasgos faciales de la clienta </p>
+    <p>Como no, no nos podemos olvidar de las <strong>melenas XXL</strong>, ya que siguen siendo tendencia, con unas capas largas y para finalizar terminamos con un acabado rizado con tenacillas.</p>
+    <p> Los <strong>flequillos</strong> también serán tendencia en este 2024</p>
+</div>
+
+<hr />
+
+<div id="hair">
+    <h1>CABELLERAS MIDI</h1>
+    <br />
+    <p>Un corte que es tendencia esta temporada y que en nuestro salón de peluquería de señoras realizamos a la perfección es el corte «midi». Se trata de medias melenas, ni muy largas ni muy cortas.</p>
+    <p>
+        El objetivo es dar rienda suelta a la imaginación y cambiar el color y la textura del cabello. Desde este tipo de melenas podemos crear otros estilos como el bob medio.
+
+    </p>
+
+</div>
+
+<hr />
+
+<div id="cuts">
+    <h1>CORTE SHAG</h1>
+    <br />
+    <p>Este corte nace de la palabra shaggy, quiere decir despeinado. Y es que, este corte se basa en muchas capas de cabello que producen un volumen extremo.</p>
+
+</div>
+
+<hr />
+
+<div id="fringe">
+    <h1>FLEQUILLOS</h1>
+    <br />
+    <p>¿Eres una adicta a los flequillos? Estás de suerte porque los flequillos no pasan de moda y vuelven para hacerse un lugar. Podemos ver flequillos en cortes bob. Sin embargo, el flequillo que protagoniza la primavera es el «gringe».</p>
+    <p>En esta ocasión, no nos preocupamos del largo y se lleva libremente. Es una opción perfecta para todas las mujeres que no se atreven a dar el paso de lucir flequillos cortos o escalonado.</p>
+</div>
+
+<hr />
+
+<div id="long">
+    <h1>CORTE LARGO CON ONDAS</h1>
+    <br />
+    <p>Este año se caracteriza por cortes de pelo de media melena. Pero el largo unido a ondas y volumen también es protagonista. Tendencias que lucen perfectamente con las coloraciones como el balayage y el tiger eye.</p>
+</div>
+
+=======
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var stylist in Model)
+        {
+            <tr>
+                <td>@stylist.StylistId</td>
+                <td>@stylist.Name</td>
+                <td>@stylist.Schedule</td>
+            </tr>
+        }
+    </tbody>
+</table>
+>>>>>>> 

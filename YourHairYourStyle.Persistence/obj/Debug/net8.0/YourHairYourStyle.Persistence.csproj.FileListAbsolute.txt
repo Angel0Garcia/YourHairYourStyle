@@ -1,0 +1,17 @@
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\bin\Debug\net8.0\YourHairYourStyle.Persistence.deps.json
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\bin\Debug\net8.0\YourHairYourStyle.Persistence.runtimeconfig.json
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\bin\Debug\net8.0\YourHairYourStyle.Persistence.dll
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\bin\Debug\net8.0\YourHairYourStyle.Persistence.pdb
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\bin\Debug\net8.0\YourHairYourStyle.Domain.dll
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\bin\Debug\net8.0\YourHairYourStyle.Domain.pdb
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\obj\Debug\net8.0\YourHairYourStyle.Persistence.csproj.AssemblyReference.cache
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\obj\Debug\net8.0\YourHairYourStyle.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\obj\Debug\net8.0\YourHairYourStyle.Persistence.AssemblyInfoInputs.cache
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\obj\Debug\net8.0\YourHairYourStyle.Persistence.AssemblyInfo.cs
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\obj\Debug\net8.0\YourHairYourStyle.Persistence.csproj.CoreCompileInputs.cache
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\obj\Debug\net8.0\YourHair.FC0E03CA.Up2Date
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\obj\Debug\net8.0\YourHairYourStyle.Persistence.dll
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\obj\Debug\net8.0\refint\YourHairYourStyle.Persistence.dll
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\obj\Debug\net8.0\YourHairYourStyle.Persistence.pdb
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\obj\Debug\net8.0\YourHairYourStyle.Persistence.genruntimeconfig.cache
+C:\dev\C#\Final_Project\YourHairYourStyle.Persistence\obj\Debug\net8.0\ref\YourHairYourStyle.Persistence.dll

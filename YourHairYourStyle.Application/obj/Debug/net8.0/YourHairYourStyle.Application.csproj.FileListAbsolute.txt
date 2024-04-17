@@ -1,0 +1,11 @@
+C:\dev\C#\Final_Project\YourHairYourStyle.Application\bin\Debug\net8.0\YourHairYourStyle.Application.deps.json
+C:\dev\C#\Final_Project\YourHairYourStyle.Application\bin\Debug\net8.0\YourHairYourStyle.Application.dll
+C:\dev\C#\Final_Project\YourHairYourStyle.Application\bin\Debug\net8.0\YourHairYourStyle.Application.pdb
+C:\dev\C#\Final_Project\YourHairYourStyle.Application\obj\Debug\net8.0\YourHairYourStyle.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\Final_Project\YourHairYourStyle.Application\obj\Debug\net8.0\YourHairYourStyle.Application.AssemblyInfoInputs.cache
+C:\dev\C#\Final_Project\YourHairYourStyle.Application\obj\Debug\net8.0\YourHairYourStyle.Application.AssemblyInfo.cs
+C:\dev\C#\Final_Project\YourHairYourStyle.Application\obj\Debug\net8.0\YourHairYourStyle.Application.csproj.CoreCompileInputs.cache
+C:\dev\C#\Final_Project\YourHairYourStyle.Application\obj\Debug\net8.0\YourHairYourStyle.Application.dll
+C:\dev\C#\Final_Project\YourHairYourStyle.Application\obj\Debug\net8.0\refint\YourHairYourStyle.Application.dll
+C:\dev\C#\Final_Project\YourHairYourStyle.Application\obj\Debug\net8.0\YourHairYourStyle.Application.pdb
+C:\dev\C#\Final_Project\YourHairYourStyle.Application\obj\Debug\net8.0\ref\YourHairYourStyle.Application.dll
