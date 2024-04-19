@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\Stylist\**" />
+    <Content Remove="Views\Stylist\**" />
+    <EmbeddedResource Remove="Views\Stylist\**" />
+    <None Remove="Views\Stylist\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.4">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -20,10 +27,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\YourHairYourStyle.Persistence\YourHairYourStyle.Persistence.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Views\Stylist\" />
   </ItemGroup>
 
 </Project>

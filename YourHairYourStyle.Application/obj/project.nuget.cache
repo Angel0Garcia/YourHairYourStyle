@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R2wYnP1wbCwW8K3Ygih/n2+aeF6Lvf+SuQ4+k0n/ABYzPDyZlA5jlOJqa9rnwnXKJOansna0sDUZ8+1pbl4BPw==",
+  "dgSpecHash": "+kPU09c8EEQgbCO6JCcAGA8/opMfIqcL4GQUOhEnm/bYipZD4yi/bkHAZmxJ3nlDJhaAVSukvE2oIV/+A4ccpw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\C#\\Final_Project\\YourHairYourStyle.Application\\YourHairYourStyle.Application.csproj",
+  "projectFilePath": "C:\\dev\\YourHairYourStyle\\YourHairYourStyle.Application\\YourHairYourStyle.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eL7Xp8t1hO7/ZIYg6IxQpTtGLEU66u1ybmbwBvwLWLydBMIu7E1+ZfeFh96xQt7iR1O0w3pb0D6jwdrW2OKgpQ==",
+  "dgSpecHash": "FscPLiohePud42Dp/FRm4pnxZL8MEjAkqNRcRYHzQwLZsQ8k9Cdl80qek9un4zD7N2L/a61oj5kiwC3gVW4veA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\C#\\Final_Project\\YourHairYourStyle.Domain\\YourHairYourStyle.Domain.csproj",
+  "projectFilePath": "C:\\dev\\YourHairYourStyle\\YourHairYourStyle.Domain\\YourHairYourStyle.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
